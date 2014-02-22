@@ -43,3 +43,14 @@ Facilitate Direct Communication between citizens of Rochester & the civic author
  - [@dkd903](http://github.com/dkd903)
  - [@ricky_lais](http://github.com/ricky_lais)
  - [@angelkanvero](http://github.com/angelkanvero)
+ 
+ 
+pmcht! (Lip Smack)
+=============
+An educational game about nutrition. Devoloped with HTML5 and JavaScript.
+ - [Source Code]https://github.com/Jenneh/pmcht
+ - [Demo](http://attroc.hackupstate.com)
+
+**Members**
+ - [@Jenneh](https://github.com/Jenneh)
+ - [@kyle](https://github.com/CallidusAsinus)
